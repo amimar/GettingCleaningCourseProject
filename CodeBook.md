@@ -30,9 +30,9 @@ The code is splitted (by comments) in 1-8 sections:
 The final dity data set loaded to "TidyDataSet.txt" file looks like:
 
 Subject           Activity tBodyAcc-mean()-X    tBodyAcc-mean()-Y   
-      1            WALKING 0.277330758736842  -0.0173838185273684  
+      1            WALKING 0.277330758736842  -0.0173838185273684 
       1   WALKING_UPSTAIRS 0.255461689622641  -0.0239531492643396 
-      1 WALKING_DOWNSTAIRS 0.289188320408163 -0.00991850461020408  
+      1 WALKING_DOWNSTAIRS 0.289188320408163 -0.00991850461020408 
 
      
 
